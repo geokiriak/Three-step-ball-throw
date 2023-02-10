@@ -1,4 +1,12 @@
 # Three-step-ball-throw
+OER για την εκμάθηση της ρίψης τριών βημάτων με μπαλάκι, για την πλατφόρμα διαδραστικού περιεχομένου H5P και όπου αυτή ενσωματώνεται, όπως στην Ψηφιακή Εκπαιδευτική Πλατφόρμα e-me (https://e-me.edu.gr/)  
+
+Σύνδεση με αθλήματα: (https://gymnasths.gr/project/mod/hvp/view.php?id=223)
+
+Βρες τη σωστή μπάλα: (https://gymnasths.gr/project/mod/hvp/view.php?id=189)
+
+
+Σχετική δημοσίευση: (https://doi.org/10.2478/ijcss-2022-0010)
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
